@@ -1,7 +1,7 @@
 name: flutter_iap_validator
 description: A Flutter package for secure in-app purchase and receipt validation, supporting subscriptions and consumables with Firebase Functions or a custom Dart backend.
 version: 1.0.0
-homepage:
+homepage: https://github.com/Destiny-Ed/flutter_iap_validator
 
 environment:
   sdk: ^3.7.2
